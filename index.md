@@ -1,4 +1,4 @@
-### Cybersecurity Strategy & Leadership | Intelligence Research & Analysis | Forecasting & Futures
+### Cybersecurity | Intelligence | Futures
 ***
 
 ### Cybersecurity Strategy & Leadership
