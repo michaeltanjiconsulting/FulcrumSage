@@ -1,6 +1,4 @@
-## Fulcrum Sage
-
-Cybersecurity Strategy & Leadership | Intelligence Research & Analysis | Forecasting & Futures
+## Cybersecurity Strategy & Leadership | Intelligence Research & Analysis | Forecasting & Futures
 
 ### Cybersecurity Strategy & Leadership
 
