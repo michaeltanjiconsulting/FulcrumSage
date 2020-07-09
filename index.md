@@ -25,4 +25,4 @@ We help you craft visions of the future and identify the indicators that point t
 
 ### Contact Us
 
-Your journey towards a more secure and successful future begins with a [click](mailto:michael@fulcrumsage.com?Subject=I%would%like%to%learn%more).
+Your journey towards a more secure and successful future begins with a [click](mailto:michael@fulcrumsage.com?Subject=I would like to learn more).
