@@ -3,7 +3,7 @@
 ### Michael Tanji
 #### Founding Princial
 
-Michael has spent the past ten years in a variety of founding and leadership roles in several cybersecurity start-ups. Most notably he was co-founder and Chief Security Officer at [Kyrus Tech](https://kyr.us); one of the co-founders of [Carbon Black](https://carbonblack.com); COO of [Senrio](https://senr.io) and the CEO of [Syndis](htttps://synd.is).
+Michael has spent the past ten years in a variety of founding and leadership roles in several cybersecurity start-ups including; co-founder and Chief Security Officer at [Kyrus Tech](https://kyr.us), co-founder of [Carbon Black](https://carbonblack.com), COO of [Senrio](https://senr.io), and the CEO of [Syndis](htttps://synd.is).
 
 He began his career as a member of the U.S. Army’s Military Intelligence Corps, working in a number of positions of increasing responsibility in signals intelligence, computer security and information security. He is a veteran of Operation Desert Storm and was stationed in various locations in the U.S. and overseas.
 
