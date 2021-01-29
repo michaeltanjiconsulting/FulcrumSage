@@ -21,15 +21,13 @@ With over a decade of success conceiving, developing, and operating cybersecurit
 
 The vast majority of executives polled said their received effectively no value from their threat intelligence service. The problem with these “intelligence” providers is that they’re providing data (feeds), or information (news), not intelligence. True intelligence is information put in context, subjected to methodology and expert insight, that is readily consumable and enables you to make better decisions. 
 
-With 20 years of experience as an intelligence analyst, you can be assured that answers to your intelligence requirements will be developed by a practitioner who has completed thousands of hours of formal training in various intelligence methodologies, techniques, and technologies, and has worked on a range of diverse problems of national and international import.
+With 20 years of experience as an intelligence analyst, you can be assured that answers to your questions will be developed by a practitioner who has worked on a range of diverse problems of national and international import. You will have the insight you need to support better decision-making, understand what it will take to achieve your goals, and recognize the signals that indicate both forward progress, and when a course correction may need to be made.
 
 ### Value Proposition
 
-* 30 years of experience in practitioner, manager, and executive roles.
+* 30 years of experience in practitioner, manager, and executive roles: empathetic to your needs.
 * Thousands of hours of formal training in multiple disciplines by multiple intelligence agencies. 
 * Broad and deep expertise developed working diverse problems in both technology and policy realms.
-* A sense of empathy developed working in operational, managerial, and leadership roles.
-* An appreciation for wider business or organizational goals and the need for solutions that support those goals.
 
 ### Engage Us Today
 
