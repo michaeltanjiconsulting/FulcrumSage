@@ -4,4 +4,4 @@ We live in an age when computing technology is ubiquitous and connectivity is pe
 
 With over a decade of success conceiving, developing, and operating cybersecurity organizations and programs, you can be assured of getting the insight you need to develop a cybersecurity strategy that allows you to protect what matters in an efficient and effective manner, compliant with pertinent regulations or standards, and in harmony with your organization’s overall objectives.
 
-<a href="mailto:michael@fulcrumsage.com">Contact us now</a> if you're ready to begin.
+[Contact us now](mailto:michael@fulcrumsage.com) if you're ready to begin.
