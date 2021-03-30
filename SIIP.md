@@ -6,4 +6,4 @@ But an examination of the state of cyber intelligence reveals that not all progr
 
 The Strategic Intelligence Improvement Program (SIIP) identifies the factors that prevent your intelligence program from operating effectively and delivering the timely insight decision-makers demand. We know what it takes to build and operate a world-class, globally-scalable cyber intelligence operation because we were there at the beginning, and we can put that invaluable experience to work for you.
 
-If you are ready to have the best intelligence capability possible, <a href="mailto:michael@fulcrumsage.com">contact us now.</a> 
+If you are ready to have the best intelligence capability possible, [Contact us now](mailto:michael@fulcrumsage.com).
